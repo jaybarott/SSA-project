@@ -73,3 +73,11 @@ color:white;
 .footer{
     font-size: x-small;
 }
+
+.container{
+    padding: 10%;
+}
+
+h5{
+    padding: 5% 5% 5% 0%;
+}
