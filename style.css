@@ -320,8 +320,11 @@ a img.aligncenter {
 .header_style_01 .nav {
     margin-bottom: 0 !important;
 }
-.header_style_01 .navbar-brand {
+.header_style_01 {
     padding: 2px 15px 0 15px;
+}
+.navbar-brand {
+    padding: 2px 2px 2px 2px;
 }
 .header_style_01 .navbar-default .navbar-nav > li > a {
     border-radius: 0;
